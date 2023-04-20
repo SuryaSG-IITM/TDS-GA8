@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title(':blue[Find the largest among of 3 Numbers]')
+st.title(':blue[Find the largest among 3 Numbers]')
 
 n1 = st.number_input(':green[Enter a number]')
 
